@@ -8,4 +8,4 @@ If you have any questions or troubles with these, ask ninux!
 
 # Have fun!
 
-# Wütrich ist Projektleiter
+# Wüthrich ist ganz sicher nicht der Projektleiter
